@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=fr4nz909)
 <br>
 
-
-        <style xmlns="http://www.w3.org/2000/svg">
+<svg width="350" height="140" viewBox="0 0 350 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
             fill: #fff;
@@ -53,24 +53,24 @@ Here are some ideas to get you started:
         </style>
 
         
-        <defs xmlns="http://www.w3.org/2000/svg">
+        <defs>
           <linearGradient id="gradient" gradientTransform="rotate(30)">
             <stop offset="0%" stop-color="#C393A8"/>,<stop offset="100%" stop-color="#F3C8E3"/>
           </linearGradient>
         </defs>
         
 
-        <rect xmlns="http://www.w3.org/2000/svg" data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#E4E2E2" width="349" fill="url(#gradient)" stroke-opacity="1"/>
+        <rect data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#E4E2E2" width="349" fill="url(#gradient)" stroke-opacity="1"/>
 
         
-      <g xmlns="http://www.w3.org/2000/svg" data-testid="card-title" transform="translate(25, 35)">
+      <g data-testid="card-title" transform="translate(25, 35)">
         <g transform="translate(0, 0)">
       <text x="0" y="0" class="header" data-testid="header">Most Used Languages</text>
     </g>
       </g>
     
 
-        <g xmlns="http://www.w3.org/2000/svg" data-testid="main-card-body" transform="translate(0, 55)">
+        <g data-testid="main-card-body" transform="translate(0, 55)">
           
     <svg data-testid="lang-items" x="25">
       
@@ -119,5 +119,4 @@ Here are some ideas to get you started:
     </svg>
   
         </g>
-      
-
+  </svg>
