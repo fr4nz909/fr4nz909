@@ -35,6 +35,9 @@ Here are some ideas to get you started:
 <g transform="translate(0, 0)">
 <text x="0" y="0" class="header" data-testid="header">Most Used Languages</text>
 <br>
+<g>
+<br>
+<g>
 
 
 <g data-testid="main-card-body" transform="translate(0, 55)">
