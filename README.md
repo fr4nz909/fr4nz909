@@ -34,8 +34,7 @@ Here are some ideas to get you started:
 <g data-testid="card-title" transform="translate(25, 35)">
 <g transform="translate(0, 0)">
 <text x="0" y="0" class="header" data-testid="header">Most Used Languages</text>
-</g>
-</g>
+<br>
 
 
 <g data-testid="main-card-body" transform="translate(0, 55)">
