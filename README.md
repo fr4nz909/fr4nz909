@@ -24,6 +24,5 @@ Here are some ideas to get you started:
 <br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fr4nz909&count_private=true)
 
-<a href="https://github.com/KarthikNayak024/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fr4nz909&layout=compact&bg_color=30,C393A8,F3C8E3&title_color=fff&text_color=fff" />
+<img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=fr4nz909&layout=compact&bg_color=30,C393A8,F3C8E3&title_color=fff&text_color=fff" />
 
